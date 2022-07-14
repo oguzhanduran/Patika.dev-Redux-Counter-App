@@ -23,3 +23,5 @@
 //--------------------------------------------------------------------------------------------------------------------------------------
 
 // Redux'da ve bir state yönetim aracında kullanırken ihtiyaç olan en belirgin şey state'i tanımlamak sonra bu veriyi herhangi bir komponentte göstermek sonrada bir aksiyon olduğunda bu veriyi değiştirebilmek aslında bizim bilmemiz gereken şeyler bundan ibaret.
+
+// reduxjs/toolkit'i redux'ı kullanmak için react-redux'u redux'da yaptıklarımızı react komponentlerimize bağlayabilmek için kullanıyoruz.
